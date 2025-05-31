@@ -1,4 +1,5 @@
-# 🐍 Python Project: Date Utilities
+# 📅 Working with Dates in Python | Coursera Project - Rice University
+
 
 This is a Python project created as part of the **"Python Programming Essentials"** course offered by **Rice University** on Coursera.
 
